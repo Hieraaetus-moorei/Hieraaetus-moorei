@@ -1,5 +1,5 @@
 # Hieraaetus moorei
-### _Data Scientist in Reas_
+### _Data Scientist ex-Reas_
 
 <br>
 <br>
