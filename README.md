@@ -1,9 +1,6 @@
 # Hieraaetus moorei
-### _Data Scientist ex-Reas_
-
-<br>
-<br>
-
+### _AI RD \& data scientist_
+\
 I'm an open source zealot escapes from github.  
 _These are just the remnants of me after fleeing from GitHub_  
 Though being a biologist, I'm honoured to be an open source developer and an AI experimenter.  
